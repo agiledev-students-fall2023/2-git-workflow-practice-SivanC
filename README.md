@@ -15,3 +15,9 @@ to have enough digits). By representing the Connect 4 board with just binary,
 the board becomes smaller and faster to access, and non-trivial operations such
 as checking for alignments are reduced to simple bit-wise arithmetic. While
 unintuitive, it is a very elegant optimization in my opinion.
+
+## Comment on the Article
+
+I found your explanation to be very informative and insightful. I like playing Connect 4 too!
+
+— Cindy Liang
